@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Diksha289
-- 👀 I’m interested in Data Science
-- 🌱 I’m addicted to learning and growing everyday
+- 👀 I am interested in Statistics, Data Science, Machine Learning
+- 🌱 I am addicted to learning and growing everyday
 - 📫 How to reach me: https://www.linkedin.com/in/diksha-patil-5624571a0/
 
                      
