@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwlsMw/XbBpCXG8fHI/AAAAAAAAMt4/u0a1bplskYgrwGb11hSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Diksha Patil</h1>
-<h3 align="left">A passionate AI/ML Engineer from India</h3>
+<h3 align="center">A passionate AI/ML Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fill:96:96/1*v-fD7Gm_N59ipd5qNKzcXQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diksha289&label=Profile%20views&color=0e75b6&style=flat" alt="diksha289" /> </p>
