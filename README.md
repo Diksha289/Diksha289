@@ -1,14 +1,16 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwlsMw/XbBpCXG8fHI/AAAAAAAAMt4/u0a1bplskYgrwGb11hSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+
+[![MasterHead](https://1.bp.blogspot.com/7A4WynwlsMw/XbBpCXG8fHI/AAAAAAAAMt4/u0a1bplskYgrwGb11hSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Diksha Patil</h1>
 <h3 align="center">A passionate AI/ML Engineer from India</h3>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/69220037/203141922-dc941a18-63f5-4c8a-9013-86ce406f471d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diksha289&label=Profile%20views&color=0e75b6&style=flat" alt="diksha289" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diksha289" alt="diksha289" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, Data Engineering.**
+- 🌱 I’m currently learning **Machine Learning, Data Engineering.**
 
-- 💬 Ask me about **Statistics, Machine Learning,Data Science, Actuarial Science.**
+- 💬 Ask me about **Statistics, Machine Learning, Deep Learning, Data Science, Actuarial Science.**
 
 - 📫 How to reach me **dikshpatil7890@gmail.com**
 
